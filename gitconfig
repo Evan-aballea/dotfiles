@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = evan.aballea@gmail.com
+	name = Evan Aballea
